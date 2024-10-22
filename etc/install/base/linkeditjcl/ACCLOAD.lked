@@ -1,0 +1,7 @@
+*
+* Copyright IBM Corp. 2023       
+*
+    INCLUDE CBSAMOD(ACCLOAD)
+    INCLUDE SYSLIB(DSNELI)
+    ENTRY ACCLOAD
+    NAME ACCLOAD(R)
